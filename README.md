@@ -154,6 +154,7 @@ This repo exists because I believe that strong engineers master both: the ML lay
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0326-power-of-three/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,4 +163,5 @@ This repo exists because I believe that strong engineers master both: the ML lay
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0326-power-of-three/) | Easy |
 <!---LeetCode Topics End-->
