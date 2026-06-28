@@ -113,6 +113,7 @@ This repo exists because I believe that strong engineers master both: the ML lay
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0283-move-zeroes/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +124,7 @@ This repo exists because I believe that strong engineers master both: the ML lay
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,4 +154,8 @@ This repo exists because I believe that strong engineers master both: the ML lay
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0176-second-highest-salary/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 <!---LeetCode Topics End-->
