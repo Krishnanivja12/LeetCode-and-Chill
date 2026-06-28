@@ -116,7 +116,7 @@ Consistency > intensity. Small daily reps compound into real skill.
 
 Hey, I'm Krishna — an AI/ML Engineer building intelligent geospatial systems at **Steve's AI Lab** using LangChain, LangGraph, RAG pipelines, ChromaDB, and AWS. My day job involves designing and deploying production-grade agentic AI systems.
 
-Outside of work, I'm actively preparing for **AI Engineer, roles at AI-first companies — and DSA is a non-negotiable part of that preparation.
+Outside of work, I'm actively preparing for AI Engineer, roles at AI-first companies — and DSA is a non-negotiable part of that preparation.
 
 This repo exists because I believe that strong engineers master both: the ML layer *and* the fundamentals underneath it.
 
