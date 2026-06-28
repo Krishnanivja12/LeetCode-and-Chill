@@ -151,6 +151,7 @@ This repo exists because I believe that strong engineers master both: the ML lay
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -169,4 +170,12 @@ This repo exists because I believe that strong engineers master both: the ML lay
 | [0231-power-of-two](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0342-power-of-four/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0242-valid-anagram/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
