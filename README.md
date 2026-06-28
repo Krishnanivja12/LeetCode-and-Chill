@@ -178,4 +178,8 @@ This repo exists because I believe that strong engineers master both: the ML lay
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0242-valid-anagram/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
