@@ -22,36 +22,6 @@ I solve problems daily as part of my broader goal to stay sharp on fundamentals 
 
 ---
 
-## 📂 Repository Structure
-
-```
-LeetCode-and-Chill/
-│
-├── 🟢 Easy/
-│   ├── two-sum.py
-│   ├── valid-parentheses.py
-│   ├── reverse-linked-list.py
-│   ├── maximum-subarray.py
-│   └── ...
-│
-├── 🟡 Medium/
-│   ├── longest-substring-without-repeating.py
-│   ├── coin-change.py
-│   ├── number-of-islands.py
-│   ├── lru-cache.py
-│   └── ...
-│
-├── 🔴 Hard/
-│   ├── trapping-rain-water.py
-│   ├── median-of-two-sorted-arrays.py
-│   ├── word-ladder.py
-│   └── ...
-│
-└── README.md
-```
-
-Each file is named after the problem slug for easy lookup. Solutions include a brief comment block explaining the approach and time/space complexity.
-
 ## 📊 My LeetCode Stats
 
 <div align="center">
