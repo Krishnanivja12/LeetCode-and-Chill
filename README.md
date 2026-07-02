@@ -136,6 +136,7 @@ This repo exists because I believe that strong engineers master both: the ML lay
 | [0231-power-of-two](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0342-power-of-four/) | Easy |
+| [2235-add-two-integers](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/2235-add-two-integers/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
