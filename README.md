@@ -29,3 +29,15 @@ python Easy/two-sum.py
 Building agentic AI systems (LangChain, LangGraph, RAG, ChromaDB, AWS) by day; grinding DSA to stay sharp on fundamentals.
 
 [GitHub](https://github.com/Krishnanivja12) · [LinkedIn](https://linkedin.com/in/krishnanivja12) · [LeetCode](https://leetcode.com/krishnanivja) · [Protfolio](https://krishna-ai-eight.vercel.app)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0344-reverse-string/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0344-reverse-string/) | Easy |
+<!---LeetCode Topics End-->
