@@ -24,7 +24,7 @@ python Easy/two-sum.py
 ```
 ## About Me
 
-**Krishna ** — AI/ML Engineer @ Steve's AI Lab, B.Tech AI/ML (2028), Indore, India.
+**Krishna Nivja** — AI/ML Engineer @ Steve's AI Lab, B.Tech AI/ML (2028), Indore, India.
 
 Building agentic AI systems (LangChain, LangGraph, RAG, ChromaDB, AWS) by day; grinding DSA to stay sharp on fundamentals.
 
