@@ -68,5 +68,6 @@ Building agentic AI systems (LangChain, LangGraph, RAG, ChromaDB, AWS) by day; g
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0009-palindrome-number/) | Easy |
 | [2235-add-two-integers](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/2235-add-two-integers/) | Easy |
 <!---LeetCode Topics End-->
