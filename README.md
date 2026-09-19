@@ -44,10 +44,12 @@ Building agentic AI systems (LangChain, LangGraph, RAG, ChromaDB, AWS) by day; g
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0014-longest-common-prefix/) | Easy |
 | [0344-reverse-string](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0344-reverse-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0016-3sum-closest/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -77,4 +79,8 @@ Building agentic AI systems (LangChain, LangGraph, RAG, ChromaDB, AWS) by day; g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/1929-concatenation-of-array/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
