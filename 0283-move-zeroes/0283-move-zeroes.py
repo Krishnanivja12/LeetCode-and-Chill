@@ -1,10 +1,9 @@
 class Solution(object):
     def moveZeroes(self, nums):
-        value = 0
 
-        for i in range(len(nums)):
-            if nums[i] != 0:
-                nums[i], nums[value] = nums[value], nums[i]
-                value += 1
-
+        left = 0  
         
+        for right in range(len(nums)):
+            if nums[right] != 0:
+                nums[left], nums[right] = nums[right], nums[left]
+                left += 1
