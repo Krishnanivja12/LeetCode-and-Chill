@@ -1,7 +1,8 @@
 class Solution(object):
     def moveZeroes(self, nums):
-
-        for i in nums :
-            if i == 0:
-                nums.remove(i)
-                nums.append(0)
+        left = 0
+        
+        for right in range(len(nums)):
+            if nums[right] != 0:
+                nums[left], nums[right] = nums[right], nums[left]
+                left += 1
