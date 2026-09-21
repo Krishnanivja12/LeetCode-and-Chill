@@ -38,6 +38,7 @@ Building agentic AI systems (LangChain, LangGraph, RAG, ChromaDB, AWS) by day; g
 | [0015-3sum](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0016-3sum-closest/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0344-reverse-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -65,6 +66,7 @@ Building agentic AI systems (LangChain, LangGraph, RAG, ChromaDB, AWS) by day; g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,4 +90,12 @@ Building agentic AI systems (LangChain, LangGraph, RAG, ChromaDB, AWS) by day; g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0136-single-number/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0234-palindrome-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
