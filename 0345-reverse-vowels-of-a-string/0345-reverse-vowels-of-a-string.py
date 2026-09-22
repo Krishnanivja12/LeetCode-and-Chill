@@ -1,5 +1,9 @@
 class Solution(object):
     def reverseVowels(self, s):
+        """
+        :type s: str
+        :rtype: str
+        """
         vowels = set('aeiouAEIOU')
         s_list = list(s) 
         left = 0
@@ -14,7 +18,7 @@ class Solution(object):
             s_list[left], s_list[right] = s_list[right], s_list[left]
             left += 1
             right -= 1
-            
+
         return "".join(s_list)
 
         
