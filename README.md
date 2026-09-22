@@ -41,12 +41,14 @@ Building agentic AI systems (LangChain, LangGraph, RAG, ChromaDB, AWS) by day; g
 | [0234-palindrome-linked-list](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0014-longest-common-prefix/) | Easy |
 | [0344-reverse-string](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
