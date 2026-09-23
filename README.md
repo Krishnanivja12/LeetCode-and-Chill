@@ -37,6 +37,7 @@ Building agentic AI systems (LangChain, LangGraph, RAG, ChromaDB, AWS) by day; g
 | ------- | ------- |
 | [0015-3sum](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0016-3sum-closest/) | Medium |
+| [0075-sort-colors](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0283-move-zeroes/) | Easy |
@@ -55,6 +56,7 @@ Building agentic AI systems (LangChain, LangGraph, RAG, ChromaDB, AWS) by day; g
 | [0014-longest-common-prefix](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0016-3sum-closest/) | Medium |
+| [0075-sort-colors](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0283-move-zeroes/) | Easy |
@@ -74,6 +76,7 @@ Building agentic AI systems (LangChain, LangGraph, RAG, ChromaDB, AWS) by day; g
 | ------- | ------- |
 | [0015-3sum](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0016-3sum-closest/) | Medium |
+| [0075-sort-colors](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0075-sort-colors/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -100,4 +103,12 @@ Building agentic AI systems (LangChain, LangGraph, RAG, ChromaDB, AWS) by day; g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0234-palindrome-linked-list/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
