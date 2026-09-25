@@ -7,11 +7,11 @@ class Solution(object):
                 nums[low], nums[mid] = nums[mid], nums[low]
                 low += 1
                 mid += 1
-
+            
             elif nums[mid] == 1:
                 mid += 1
 
-            else:
+            else: 
                 nums[mid], nums[high] = nums[high], nums[mid]
                 high -= 1
 
