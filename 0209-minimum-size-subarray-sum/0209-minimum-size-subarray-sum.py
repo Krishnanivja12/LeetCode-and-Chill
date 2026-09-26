@@ -12,5 +12,9 @@ class Solution(object):
                 curr_sum -= nums[left]
                 left += 1
 
-        return 0 if min_len == float('inf') else min_len
+        if min_len == float('inf'):
+            return 0
+
+        return min_len
+
         
