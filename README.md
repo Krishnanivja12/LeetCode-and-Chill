@@ -44,6 +44,7 @@ Building agentic AI systems (LangChain, LangGraph, RAG, ChromaDB, AWS) by day; g
 | [0283-move-zeroes](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -63,6 +64,7 @@ Building agentic AI systems (LangChain, LangGraph, RAG, ChromaDB, AWS) by day; g
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0283-move-zeroes/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/1929-concatenation-of-array/) | Easy |
 ## Binary Search
@@ -70,6 +72,7 @@ Building agentic AI systems (LangChain, LangGraph, RAG, ChromaDB, AWS) by day; g
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +84,7 @@ Building agentic AI systems (LangChain, LangGraph, RAG, ChromaDB, AWS) by day; g
 | [0015-3sum](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0075-sort-colors/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -124,4 +128,8 @@ Building agentic AI systems (LangChain, LangGraph, RAG, ChromaDB, AWS) by day; g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0349-intersection-of-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
