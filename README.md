@@ -50,6 +50,7 @@ Building agentic AI systems (LangChain, LangGraph, RAG, ChromaDB, AWS) by day; g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0014-longest-common-prefix/) | Easy |
+| [0058-length-of-last-word](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0058-length-of-last-word/) | Easy |
 | [0344-reverse-string](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Array
