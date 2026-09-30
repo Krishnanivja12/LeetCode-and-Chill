@@ -45,6 +45,7 @@ Building agentic AI systems (LangChain, LangGraph, RAG, ChromaDB, AWS) by day; g
 | [0344-reverse-string](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0832-flipping-an-image](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0832-flipping-an-image/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -66,6 +67,7 @@ Building agentic AI systems (LangChain, LangGraph, RAG, ChromaDB, AWS) by day; g
 | [0209-minimum-size-subarray-sum](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0832-flipping-an-image](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0832-flipping-an-image/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/1929-concatenation-of-array/) | Easy |
 ## Binary Search
@@ -96,6 +98,7 @@ Building agentic AI systems (LangChain, LangGraph, RAG, ChromaDB, AWS) by day; g
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0832-flipping-an-image](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0832-flipping-an-image/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/1929-concatenation-of-array/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -105,6 +108,7 @@ Building agentic AI systems (LangChain, LangGraph, RAG, ChromaDB, AWS) by day; g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0136-single-number/) | Easy |
+| [0832-flipping-an-image](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0832-flipping-an-image/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,4 +137,8 @@ Building agentic AI systems (LangChain, LangGraph, RAG, ChromaDB, AWS) by day; g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0832-flipping-an-image](https://github.com/Krishnanivja12/LeetCode-and-Chill/tree/main/0832-flipping-an-image/) | Easy |
 <!---LeetCode Topics End-->
