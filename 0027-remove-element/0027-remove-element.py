@@ -1,10 +1,10 @@
 class Solution(object):
     def removeElement(self, nums, val):
-        k = 0
+        K_val = 0
         for i in range(len(nums)):
             if nums[i] != val:
-                nums[k] = nums[i]
-                k += 1
-        return k
+                nums[K_val] = nums[i]
+                K_val += 1
+        return K_val
         
         
